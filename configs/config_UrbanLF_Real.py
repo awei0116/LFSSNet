@@ -25,8 +25,7 @@ C.gt_format = '.png'        #111
 C.lf_root_folder = osp.join(C.dataset_path, 'LF')
 C.lf_format ='.png'       #111
 C.gt_transform = False
-# True when label 0 is invalid, you can also modify the function _transform_gt in dataloader.RGBXDataset
-# True for most dataset valid, Faslse for MFNet(?)
+
 C.x_root_folder = osp.join(C.dataset_path, 'Depth')    #111
 C.x_format = '.png'
 C.x_is_single_channel = True # True for raw depth, thermal and aolp/dolp(not aolp/dolp tri) input

@@ -105,7 +105,7 @@ Currently, we only publicly release the optimal trained weights for UrbanLF_Real
 
 Here, `dataset_name=UbanLF_Real/UrbanLF_Syn`, referring to the datasets.\
 `epoch_number` refers to a number standing for the epoch number you want to evaluate with.\
-We provide the best `epoth.pth` of UrbanLF_Real in the [UrbanLF_Real_base_best](https://ufile.io/5k59uj0p)/[UrbanLF_Real_small_best](https://www.hostize.com/zh/v/223WMxfoVq)/[UrbanLF_Real_tiny_best](https://www.hostize.com/zh/v/u8dsZBxh3p).\
+We provide the best `epoth.pth` of UrbanLF_Real in the [UrbanLF_Real_base_best](https://ufile.io/wf0kqqs8)/[UrbanLF_Real_small_best](https://ufile.io/yzw0fxyf)/[UrbanLF_Real_tiny_best](https://www.hostize.com/zh/v/Qz-Hce1WKe).\
 You can replace `epoch_number` with `.log_final/log_UrbanLF_Real/epoth.pth`
 
 3.Results will be saved in `visualize_savedir` and `visualize_savedir_color` folders.
